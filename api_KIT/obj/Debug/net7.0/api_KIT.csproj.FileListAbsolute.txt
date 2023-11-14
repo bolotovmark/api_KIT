@@ -1,0 +1,15 @@
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/bin/Debug/net7.0/api_KIT
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/bin/Debug/net7.0/api_KIT.deps.json
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/bin/Debug/net7.0/api_KIT.runtimeconfig.json
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/bin/Debug/net7.0/api_KIT.dll
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/bin/Debug/net7.0/api_KIT.pdb
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/api_KIT.csproj.AssemblyReference.cache
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/api_KIT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/api_KIT.AssemblyInfoInputs.cache
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/api_KIT.AssemblyInfo.cs
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/api_KIT.csproj.CoreCompileInputs.cache
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/api_KIT.dll
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/refint/api_KIT.dll
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/api_KIT.pdb
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/api_KIT.genruntimeconfig.cache
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_KIT/api_KIT/api_KIT/obj/Debug/net7.0/ref/api_KIT.dll
